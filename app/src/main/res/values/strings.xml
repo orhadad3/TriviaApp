@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="welcome">Welcome to Trivia App!</string>
+    <string name="desc">Enter your name, and Lets get started!</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="lets_start">Lets Start!</string>
+    <string name="results">Quiz Results</string>
+    <string name="good">Good Job!</string>
+</resources>

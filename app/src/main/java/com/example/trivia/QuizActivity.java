@@ -131,7 +131,10 @@ public class QuizActivity extends AppCompatActivity {
         List<Question> questList = new ArrayList<>();
         questList.add(new Question("What is the capital of Israel?", "Paris", "Jerusalem", "London", "Berlin", "Jerusalem"));
         questList.add(new Question("What the answer of: 2 + 2?", "6", "2", "4", "9", "4"));
-        questList.add(new Question("What the answer of: 2 + 2?", "6", "2", "4", "9", "4"));
+        questList.add(new Question("What is the capital of France?", "Rome", "Madrid", "Berlin", "Paris", "Paris"));
+        questList.add(new Question("Which animal is known as “King of the Jungle”?", "Elephant", "Tiger", "Lion", "Giraffe", "Lion"));
+        questList.add(new Question("What color is the sky on a clear day?", "Blue", "Green", "Red", "Yellow", "Blue"));
+        questList.add(new Question("How many legs does a spider have?", "6", "4", "10", "8", "8"));
         return questList;
     }
 }
